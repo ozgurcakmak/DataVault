@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ozgurcakmak.github.io/datavault
+  baseUrl: ozgurcakmak.github.io/DataVault
   ignorePatterns:
     - private
     - templates
