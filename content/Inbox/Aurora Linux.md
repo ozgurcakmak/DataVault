@@ -17,5 +17,19 @@ I mean... if you are not using an Asus ROG Laptop...
 ## Overall
 I can see myself using this distro if I hadn't owned an Asus ROG G14. Also it is a testament to see how far the Linux come since the bad old days of 2000s. Now it is going toe to toe with Mac - after W11, the less we talk about Windows, the better.
 
+# Troubleshooting
+## `UNABLE_TO_GET_ISSUER_CERT_LOCALLY` Error
+`brew install node` command does not point to the ca certificates - resulting in plugin install errors. 
+
+To fix it we run this command:
+
+`npm config set cafile /etc/pki/ca-trust/extracted/pem/tls-ca-bundle.pem`
+
+## Failed to Emit ogimage
+This didn't happen on Windows but Linux yelled at me on 
+
+	npx quartz build --serve
+
+With the og-image plugin. Solution **disable it** from `quartz.config.yaml`
 ## Tags
-#linux #immutable-distro #unsorted
+#linux #unsorted 
