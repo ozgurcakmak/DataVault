@@ -1,6 +1,21 @@
 ---
 title: Welcome to Quartz
 ---
+#stuffthatmatters
+# Beginnings
+I am typing these words on 06.07.2026. 
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is my first knowledge garden. I think it is better than a blog. 
+
+Herein will contain some stuff that'll be primarily in English. I will be covering:
+
+- Novels
+- Games
+- Music
+- Ephemera
+- Various weird stuff
+
+Let's see where it'll take us.
+
+## Now
+- Playing [[Atomic Heart]]
