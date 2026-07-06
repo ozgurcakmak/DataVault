@@ -19,6 +19,7 @@ Herein will contain some stuff that'll be primarily in English. I will be coveri
 Let's see where it'll take us.
 
 ## Web Presence
+- [Web Site](https://ozgurcakmak.net/)
 - [Now Page](https://ozgurcakmak.net/now)
 - [StoryGraph](https://app.thestorygraph.com/profile/ozgurcakmak)
 - [PixelFed](https://pixelfed.social/ozgurcakmak)
