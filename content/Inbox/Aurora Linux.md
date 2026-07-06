@@ -1,5 +1,6 @@
 ![[Pasted image 20260706213314.png]]
 **Link:** [Aurora Linux](https://getaurora.dev/en/)
+
 I am in love with the idea of *immutable distros* since I used [[Steam Deck]]. A linux that runs the games without issues and does not croak when receiving an update? Sign me up!
 
 I mean... if you are not using an Asus ROG Laptop...
