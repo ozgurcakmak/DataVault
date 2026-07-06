@@ -22,3 +22,6 @@ Let's see where it'll take us.
 - [Now Page](https://ozgurcakmak.net/now)
 - [StoryGraph](https://app.thestorygraph.com/profile/ozgurcakmak)
 - [PixelFed](https://pixelfed.social/ozgurcakmak)
+
+
+
