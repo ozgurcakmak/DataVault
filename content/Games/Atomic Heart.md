@@ -14,6 +14,6 @@ Atomic heart gave me these vibes. What it does is giving a bright, pastel colour
 - Flying bots are annoying as mosquitoes. 
 - Scratch that, **ALL** bots are annoying. They have cute designs, mostly, but they are annoying.
 - In this universe, people pay to do the dirty with robot ballerinas. No, I do not know how. No, I do not want to know how. 
-- Ivy monster - whatever its name (pluchy I think) - is a proper boss fight at first; when it becomes a regular monster - it is tiring.  The QTE part especially gets humdrum. Yesyes q, e, space... just get on with it so I can smack you more with my double glazed Zvezdochka.
+- Ivy monster - whatever its name (~~pluchy I think~~ It was Plyusch) - is a proper boss fight at first; when it becomes a regular monster - it is tiring.  The QTE part especially gets humdrum. Yesyes q, e, space... just get on with it so I can smack you more with my double glazed Zvezdochka.
 ## Tags
 #games
